@@ -1,16 +1,67 @@
-## Hi there 👋
+DancingBrush Labs
 
-<!--
-**Dancingbrushlabs/dancingbrushlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building practical software and creative works.
 
-Here are some ideas to get you started:
+DancingBrush Labs (DBL) is an independent studio focused on creating practical desktop software, publications, and creative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Our goal is simple:
+
+Build useful things that are enjoyable to create and easy to use.
+
+⸻
+
+Projects
+
+💻 Software
+
+* CurveTrace
+    Fast Image Log Digitizer for geologists and petrophysicists.
+* QuickLog (Concept)
+    Lightweight well log interpretation software designed for fast workflows.
+
+⸻
+
+📚 Publications
+
+Children’s books and creative publications.
+
+Explore our published works and upcoming titles.
+
+⸻
+
+📷 Photography
+
+Landscape and travel photography.
+
+A collection of selected photographs and visual projects.
+
+⸻
+
+Philosophy
+
+We believe software should be:
+
+* Simple
+* Fast
+* Practical
+* Enjoyable to use
+
+Instead of building software with every possible feature, we focus on creating tools that solve real problems with intuitive workflows.
+
+⸻
+
+Current Status
+
+DancingBrush Labs is an independent project currently under active development.
+
+New software, publications, and creative projects will continue to be added over time.
+
+⸻
+
+Contact
+
+For questions or collaboration, please contact us through our GitHub pages or project websites.
+
+⸻
+
+© DancingBrush Labs
