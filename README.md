@@ -51,8 +51,6 @@ button or handoff action.
 | Dancingbrush Labs | `Dancingbrushlabs/dancingbrushlabs` | Top-level homepage | Public |
 | Dancing Brush | `Dancingbrushlabs/publication` | Publication website | Public |
 | Curve Trace website | `Dancingbrushlabs/curvetrace` | Product introduction page | Public |
-| Curve Trace app | `Dancingbrushlabs/curvetrace-app` | Application source code | Private |
-| Quicklog app | `Dancingbrushlabs/quicklog-app` | Planned log analysis application source code | Private |
 
 ## Philosophy
 
